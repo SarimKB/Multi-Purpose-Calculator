@@ -1,0 +1,5 @@
+﻿  Calculus_Class.cpp
+  main.cpp
+  Generating Code...
+C:\Users\Sarim\Desktop\CPP\source\repos\Personal\Multi_Calculator\Multi_Calculator\main.cpp(99,20): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+  Multi_Calculator.vcxproj -> C:\Users\Sarim\Desktop\CPP\source\repos\Personal\Multi_Calculator\Debug\Multi_Calculator.exe
